@@ -5,7 +5,7 @@ Cor_Stroke = Color3.fromRGB(60, 60, 90),
 Cor_Text = Color3.fromRGB(240, 240, 255),
 Cor_DarkText = Color3.fromRGB(140, 140, 170),
 Corner_Radius = UDim.new(0, 4),
-Text_Font = Enum.Font.Roman
+Text_Font = Enum.Font.Gotham
 }
 
 local CoreGui = game:GetService("CoreGui")
